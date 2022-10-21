@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.caja1 {
+    border: 5px solid rgb(216, 9, 9);
+    height: 100vh;
+    width: 97vw;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    border: 1px dashed rebeccapurple;
+}
